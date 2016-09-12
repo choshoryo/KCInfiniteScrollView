@@ -45,6 +45,7 @@
 		3524F2671CE3574600A780B9 = {
 			isa = PBXGroup;
 			children = (
+				3524F29D1CE35CAE00A780B9 /* KCInfiniteScrollView */,
 				3524F2721CE3574600A780B9 /* KCInfiniteScrollViewDemo */,
 				3524F2711CE3574600A780B9 /* Products */,
 			);
@@ -61,7 +62,6 @@
 		3524F2721CE3574600A780B9 /* KCInfiniteScrollViewDemo */ = {
 			isa = PBXGroup;
 			children = (
-				3524F29D1CE35CAE00A780B9 /* KCInfiniteScrollView */,
 				3524F2761CE3574600A780B9 /* AppDelegate.h */,
 				3524F2771CE3574600A780B9 /* AppDelegate.m */,
 				3524F2791CE3574600A780B9 /* ViewController.h */,
